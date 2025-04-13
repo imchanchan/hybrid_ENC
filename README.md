@@ -1,4 +1,4 @@
-# 🔐 Hybrid_ENC: Hybrid Cryptosystem Implementation
+# 🔐 Hybrid_ENC
 
 > 대칭키 암호(AES)와 해시(SHA1)를 조합한 **Hybrid 암호 시스템** 구현 프로젝트
 
